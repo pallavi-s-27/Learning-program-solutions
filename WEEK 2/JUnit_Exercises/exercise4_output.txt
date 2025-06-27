@@ -1,0 +1,3 @@
+Setting up test.
+Cleaning up after test.
+Tests run: 1, Failures: 0

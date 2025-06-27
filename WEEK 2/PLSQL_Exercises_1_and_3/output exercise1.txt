@@ -1,0 +1,17 @@
+CustomerID | Name | DOB | LoanID | InterestRate (Before) | InterestRate
+(After)
+----------------------------------------------------------------------------------------
+-----
+1 | John Doe | 1985-05-15 | 1 | 5.00 | 5.00 (no change)
+Note: No customer over 60, so no interest rate updated.
+
+
+
+CustomerID | Name | Balance | IsVIP (Before) | IsVIP (After)
+--------------------------------------------------------------------
+1 | John Doe | 1000 | NULL | NULL
+2 | Jane Smith | 1500 | NULL | NULL
+3 | Robert Miller| 15000 | NULL | TRUE
+
+
+Reminder: Loan 1 for John Doe is due on 2025-07-15

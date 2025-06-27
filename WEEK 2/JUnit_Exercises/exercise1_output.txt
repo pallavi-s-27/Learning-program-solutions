@@ -1,0 +1,3 @@
+JUnit setup works!
+BUILD SUCCESSFUL
+Tests run: 1, Failures: 0

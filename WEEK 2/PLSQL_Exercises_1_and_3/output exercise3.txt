@@ -1,0 +1,24 @@
+AccountID | AccountType | Balance (Before) | Balance (After)
+------------------------------------------------------------
+1 | Savings | 1000 | 1010.00
+2 | Checking | 1500 | 1500.00 (no change)
+
+
+EmployeeID | Name | Department | Salary (Before) | Salary (After)
+------------------------------------------------------------------------
+2 | Bob Brown | IT | 60000 | 66000
+
+
+Before Transfer:
+AccountID | Balance
+--------------------
+1 | 1000
+2 | 1500
+
+After Transfer (500 from 1 to 2):
+AccountID | Balance
+--------------------
+1 | 500
+2 | 2000
+If insufficient funds:
+Transfer failed: insufficient balance.
