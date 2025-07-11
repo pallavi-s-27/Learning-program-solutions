@@ -1,0 +1,13 @@
+240711|20:55:12.345|main                | INFO|SpringLearnApplication        |     main|START
+240711|20:55:12.678|main                | INFO|SpringLearnApplication        |     main|END
+
+
+
+INFO | START
+DEBUG | Inside Country Constructor.
+DEBUG | Inside setCode
+DEBUG | Inside setName
+DEBUG | Inside getCode
+DEBUG | Inside getName
+DEBUG | Country : Country [code=IN, name=India]
+INFO | END
